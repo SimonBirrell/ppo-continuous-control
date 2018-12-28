@@ -61,9 +61,9 @@ jupyter notebook Navigation.ipynb
 
 8. Place the file in the root directory of this repository and unzip (or decompress) the file. 
 
-9. Run the code (by clicking the top cell and then using Shift-Enter to execute each cell in turn) right down to and including the "It's Your Turn" cell. This should solve the environment in under 300 episodes. Make sure the Unity window is visible, as otherwise the simulation has atendency to pause itself.
+9. Run the code (by clicking the top cell and then using Shift-Enter to execute each cell in turn) right down to and including the "Train the Policy" cell. This should solve the environment in under 300 episodes. Make sure the Unity window is visible, as otherwise the simulation has atendency to pause itself.
 
-10. To see the trained agent, then run the cell titled "Run the policy".
+10. To see the trained agent, then run the cell titled "Run the policy". Watch the Unity app window to see how well it performs.
 
 
 
